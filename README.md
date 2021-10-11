@@ -8,9 +8,9 @@
 ## 💻 Projeto
 
  - Site comercial.
- - Este projeto foi desenvolvido pela **[ @Rocketseat ](https://github.com/Rocketseat)** , evento **[ Next Level Week # 5 ](https://nextlevelweek.com/)**
+ - Este projeto foi desenvolvido por **[ Luana Almeida ](https://github.com/luanaAlm)** , template **[ bootstrapmade ](https://bootstrapmade.com/)**
 <h1 align = "center">
-    <img alt = "ProjetoPodcast" title = "Podcast Projeto" src = "https://github.com/luanaAlm/podcast-nlw5/blob/main/public/img-git/screencapture.png" />
+    <img alt = "CasaSegura" title = "Casa Segura" src = "https://raw.githubusercontent.com/luanaAlm/casasegura.github.io/main/assets/img/screencapture-luanaalm-github-io-casasegura-github-io-2021-10-11-12_31_26.png" />
 </h1>
 ## 🧪 Tecnologias
 
@@ -20,12 +20,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 - [Sass](https://sass-lang.com/)
-
-## 📝 License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/SantanaDeveloper/podcastr-nlw-5/blob/main/LICENSE.md) para mais detalhes.
-
-<hr>
 
 Feito por [Luana Almeida](https://github.com/luanaAlm) 
 
