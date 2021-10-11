@@ -2,12 +2,12 @@
 
 
 <h1 align="center">
-    <img alt="PlantManager" title="Podcast" src="https://raw.githubusercontent.com/luanaAlm/casasegura.github.io/main/assets/img/icon.png" height="50"  />
+    <img alt="PlantManager" title="Podcast" src="https://raw.githubusercontent.com/luanaAlm/casasegura.github.io/main/assets/img/icon.png" height="100"  />
 </h1>
 
 ## 💻 Projeto
 
- - Site para transmissão de Podcasts.
+ - Site comercial.
  - Este projeto foi desenvolvido pela **[ @Rocketseat ](https://github.com/Rocketseat)** , evento **[ Next Level Week # 5 ](https://nextlevelweek.com/)**
 <h1 align = "center">
     <img alt = "ProjetoPodcast" title = "Podcast Projeto" src = "https://github.com/luanaAlm/podcast-nlw5/blob/main/public/img-git/screencapture.png" />
