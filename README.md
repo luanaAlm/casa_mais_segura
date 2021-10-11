@@ -10,7 +10,7 @@
  - Site comercial.
  - Este projeto foi desenvolvido por **[ Luana Almeida ](https://github.com/luanaAlm)** , template **[ bootstrapmade ](https://bootstrapmade.com/)**
 <h1 align = "center">
-    <img alt = "CasaSegura" title = "Casa Segura" src = "https://raw.githubusercontent.com/luanaAlm/casasegura.github.io/main/assets/img/screencapture-luanaalm-github-io-casasegura-github-io-2021-10-11-12_31_26.png" height="500"/>
+    <img alt = "CasaSegura" title = "Casa Segura" src = "https://raw.githubusercontent.com/luanaAlm/casasegura.github.io/main/assets/img/screencapture-luanaalm-github-io-casasegura-github-io-2021-10-11-12_31_26.png" height="1000"/>
 </h1>
 
 ## 🧪 Tecnologias
