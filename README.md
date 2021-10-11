@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img alt="PlantManager" title="Podcast" src="https://raw.githubusercontent.com/luanaAlm/casasegura.github.io/main/assets/img/logo.png" height="50"  />
+    <img alt="PlantManager" title="Podcast" src="https://raw.githubusercontent.com/luanaAlm/casasegura.github.io/main/assets/img/icon.png" height="50"  />
 </h1>
 
 ## 💻 Projeto
